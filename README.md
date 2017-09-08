@@ -1,7 +1,7 @@
 # Pylearning
 
 ## Clone (or download from) the repository:
-        git clone https://github.com/ladin157/pylearning
+        git clone https://github.com/ladin157/pylearning.git
 
 ## Install all requiments:
     pip install -r requirements.txt
